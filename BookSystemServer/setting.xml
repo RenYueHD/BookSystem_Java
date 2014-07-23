@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="address">0.0.0.0</entry>
+<entry key="port">41366</entry>
+<entry key="analyze">cls.jar</entry>
+</properties>
